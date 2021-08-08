@@ -1,0 +1,30 @@
+ .fav-color {
+ color:blue;}
+ 
+  body {
+  font-family:sans-serif;
+  line-height:26px;
+  color:#777777;}
+  
+  .half-width{
+  width:50%;
+  float: left;}
+
+  .side-img{
+  width:50% ;
+  padding-left: 25%;}
+  
+  .primary-btn{
+  color:white;
+  background-color:#8845f4;
+  padding:13px, 42px, 13px, 42px;
+  border-radius:20px;
+  text-decoration:none;}
+  h1{font-size:1.7em;}
+  
+  .container{
+  padding-left:5%;
+  display:inline-block;}
+  
+  body{
+  background-color:aqua;}
