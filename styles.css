@@ -6,6 +6,9 @@
   line-height:26px;
   color:#777777;}
   
+  .purple-color{
+  color:#8845f4;}
+  
   .half-width{
   width:50%;
   float: left;}
@@ -28,3 +31,17 @@
   
   body{
   background-color:aqua;}
+  
+  .experiences{
+  padding:30px;
+  margin:30px;
+  border-radius:20px;
+  background-color:rgb(238,251,255);}
+  
+  .experience-item{
+  padding:10px;
+  border-left:1px solid rgba(130,137,247,.2;}
+  
+  
+  
+  
